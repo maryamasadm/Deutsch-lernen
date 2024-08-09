@@ -2,9 +2,14 @@
 
 ## Vocabulary
 
-| Deutsch       | English        |
+| Deutsch       | English        | English        |
 | ------------- | -------------- |
-| das Haus      | the house      |
+| leiten        | manage, guide  |
+| der Apfel     | the apple      |
+| trinken       | to drink       |
+| laufen        | to walk        |
+| ------------- | -------------- |
+| leiten        | manage, guide  |
 | der Apfel     | the apple      |
 | trinken       | to drink       |
 | laufen        | to walk        |
