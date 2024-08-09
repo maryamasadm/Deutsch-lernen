@@ -5,9 +5,10 @@
 | Wort       | Übersetzung | Sätze                                                                 |
 |------------|-------------|------------------------------------------------------------------------|
 | **leiten** | mangage     | - Ich habe Erfahrung in der Teamleitung. |
-| **Versammlung** | Besprechung (but formal)   | - Der Minister und sein Stellvertreter nahmen an der Versammlung teil.. |
-| **Wort 3** | Example 3   | - Beispiel 3 ist nützlich in... <br> - Ich habe Beispiel 3 in einem Gespräch verwendet. |
-| **Wort 4** | Example 4   | - Context or sentence for Example 4. <br> - Additional context or usage examples for Example 4. |
+| **Versammlung** | Besprechung (but formal)   | - Der Minister nahm an der Versammlung teil (teilnehmen). |
+| **Unbefristet** | unlimited   | - Ich habe einen unbefristeten Antrag. |
+| **die Frist** | period, deadline   | - Wir mussten schwer arbeiten, um die Frist einzuhalten. |
+| **kurzfristig** | short term or notice   | - Wir mussten auf die Planänderung kurzfristig reagieren. |
 
 ## Sentences
 
