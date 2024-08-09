@@ -9,6 +9,15 @@
 | **Unbefristet** | unlimited   | - Ich habe einen unbefristeten Antrag. |
 | **die Frist** | period, deadline   | - Wir mussten schwer arbeiten, um die Frist einzuhalten. |
 | **kurzfristig** | short term or notice   | - Wir mussten auf die Planänderung kurzfristig reagieren. |
+| **spontan** | spontaneous   | - Er trifft gerne spontane Entscheidungen. spontane Reaktion.|
+| **Entscheidung treffen** | make decisions   | - Ich denke sehr viel nach, um meine Entscheidungen zu treffen.|
+| **das Frühjahr** | spring   | - Mein Geburtstag ist im Frühjahr.|
+| **einführen** | intruduce, lunch   | - Die Firma führte ein neues Kommunikationssystem/ neue Produkte ein.|
+| **das Gesicht** | face   | - Ich benutze viele Gesichtscremes in meiner Hautpflege-Routine.|
+
+
+
+
 
 ## Sentences
 
