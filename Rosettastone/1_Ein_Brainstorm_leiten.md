@@ -53,9 +53,11 @@
 | **Vorbereitung** | prepration  | - Die Vorbereitung des Abendessens dauert etwa 30 Minuten.|
 | **würden** | would  | - Wenn ich mehr Zeit hätte, würde ich mehr malen.|
 | **ziehen** | umziehen, move  | - Ich bin vor 5 Monaten hierher gezogen.|
+| **ausführlich** | detailed  | - Der Bericht (report) ist sehr ausführlich.|
+| **erkennen** | recognise  | - Ich habe ihn sofort erkannt.|
+| **schwach** | weak  | - Ich bin erkältet und fühle mich sehr schwach. Ihre Argument sind etwas schwach.|
 
 
-Ich bin vor 5 Monaten hierher gezogen
 
 
 ## Ähnlicher Wortschatz
@@ -70,7 +72,8 @@ Ich bin vor 5 Monaten hierher gezogen
 | **befinden** | locate,feel  | - Ich befinde mich in einer schwierigen Lage (situation). |
 | **versuchen** | try, attempt  | - Ich werde es noch einmal versuchen. |
 | **untersuchen** | examine | - Wir sollten verschiedene Methoden ausprobieren/ untersuchen. |
-
+| **annehmen** | Akzeptieren | - Ich nehme an. |
+| **ablehnen** |  Nicht akzeptieren | - Ich lehne ab. Ich habe die Einladung abgelehnt.|
 
 
 
@@ -78,11 +81,12 @@ Ich bin vor 5 Monaten hierher gezogen
 ## Sentences
 
 1. **Ich bin der Meinung, dass ... .** - I believe that ... (formal).
-2. **Ich gehe gerne schwimmen. Der Freitag passt am besten.** - Friday fits the best.
-3. **Du hast recht.** - You are right.
-4. **Da gebe ich dir recht** -  agree with you there.
-5. **wie wäre es mit** - how about .. .
-6. **in den Bergen** - 
+2. **Meiner Meinung nach ..**
+3. **Ich gehe gerne schwimmen. Der Freitag passt am besten.** - Friday fits the best.
+4. **Du hast recht.** - You are right.
+5. **Da gebe ich dir recht** -  agree with you there.
+6. **wie wäre es mit** - how about .. .
+7. **in den Bergen** - 
 
 ## Grammatik
 # passive 
