@@ -39,6 +39,9 @@
 | **schon** | already   | - Ich habe das Buch schon gelesen.|
 | **schon einmal** | already before   | - Hast du das schon einmal gemacht?/ Vielen Dank schon einmal für ... .|
 | **die Anregung** | der Vorschlag   | - Ich habe eine Anregung für die nächste Besprechung. Anregungen / Ideen.|
+| **sammeln** | collect   | - Wir müssen mehr Daten oder Samples sammeln.|
+
+
 
 
 ## Ähnlicher Wortschatz
@@ -62,13 +65,5 @@
 4. **Da gebe ich dir recht** -  agree with you there.
 5. **wie wäre es mit** - how about .. .
 
-## Notes
 
-- **trinken** (to drink) is a regular verb.
-- The adjective **rot** (red) comes after the noun.
-
-## Online Session Notes
-
-- Practiced pronunciation of **trinken** and **laufen**.
-- Participated in a dialogue about daily routines.
 
