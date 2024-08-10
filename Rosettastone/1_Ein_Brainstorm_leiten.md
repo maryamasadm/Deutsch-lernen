@@ -47,9 +47,15 @@
 | **rechtzeitig** | in time   | - Wir haben das Projekt rechtzeitig abgeschlossen.|
 | **abholen** | pick up   | -Ich habe sie am Flugzeug abgeholt.|
 | **das Unternehmen** | company   | -Das Unternehmen wird eine neue Produktlinie einführen.|
-| **wählen** | choose  | -Ich habe neue Leben gewählt.|
+| **wählen** | choose  | - Ich habe neue Leben gewählt.|
+| **überdenken** | consider, rethink  | - Wir sollten die Konsequenzen dieser Entscheidung gründlich überdenken.|
+| **überlegen** | consider  | - Ich muss mir überlegen, ob ich das Angebot annehmen (accept) soll.|
+| **Vorbereitung** | prepration  | - Die Vorbereitung des Abendessens dauert etwa 30 Minuten.|
+| **würden** | would  | - Wenn ich mehr Zeit hätte, würde ich mehr malen.|
+| **ziehen** | umziehen, move  | - Ich bin vor 5 Monaten hierher gezogen.|
 
 
+Ich bin vor 5 Monaten hierher gezogen
 
 
 ## Ähnlicher Wortschatz
@@ -62,6 +68,10 @@
 | **bevorzugen** | prefer   | - Ich bevorzuge es, an meiner Selbstentwicklung zu arbeiten. |
 | **finden** | find   | - Ich habe meine Schlüssel gefunden. |
 | **befinden** | locate,feel  | - Ich befinde mich in einer schwierigen Lage (situation). |
+| **versuchen** | try, attempt  | - Ich werde es noch einmal versuchen. |
+| **untersuchen** | examine | - Wir sollten verschiedene Methoden ausprobieren/ untersuchen. |
+
+
 
 
 
@@ -77,10 +87,10 @@
 ## Grammatik
 # passive 
 
-Present Tense Passive: Subject + wird + Past Participle: Die Wohnung wird geputzt.
-Past Tense Passive: Subject + wurde + Past Participle : Mein Auto wurde in Berlin angemeldet.
-Future Tense Passive: Subject + wird + Past Participle + werden: Die Medizin wird gesendet werden (will be sent)
-Present Perfect Tense Passive: Subject + ist + Past Participle + worden
+- Present Tense Passive: Subject + wird + Past Participle: Die Wohnung wird geputzt.
+- Past Tense Passive: Subject + wurde + Past Participle : Mein Auto wurde in Berlin angemeldet.
+- Future Tense Passive: Subject + wird + Past Participle + werden: Die Medizin wird gesendet werden (will be sent)
+- Present Perfect Tense Passive: Subject + ist + Past Participle + worden
 
 
 
