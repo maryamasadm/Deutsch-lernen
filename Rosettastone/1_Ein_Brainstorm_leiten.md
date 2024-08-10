@@ -40,6 +40,14 @@
 | **schon einmal** | already before   | - Hast du das schon einmal gemacht?/ Vielen Dank schon einmal für ... .|
 | **die Anregung** | der Vorschlag   | - Ich habe eine Anregung für die nächste Besprechung. Anregungen / Ideen.|
 | **sammeln** | collect   | - Wir müssen mehr Daten oder Samples sammeln.|
+| **ermutern** | encourage | - Ich ermutere dich, deine Träume zu verfolgen.|
+| **ansprechen** | address, raise up   | - Wir sollten dieses Thema unbedingt (definetly) ansprechen.|
+| **anschaffen** | kaufen  | - Ich habe ein neues Auto angeschafft..|
+| **auffordern** | bitten   | - Ich fordere den Chef auf, zweimal pro Woche von zu Hause arbeiten. aufgefordert|
+| **rechtzeitig** | in time   | - Wir haben das Projekt rechtzeitig abgeschlossen.|
+| **abholen** | pick up   | -Ich habe sie am Flugzeug abgeholt.|
+| **das Unternehmen** | company   | -Das Unternehmen wird eine neue Produktlinie einführen.|
+| **wählen** | choose  | -Ich habe neue Leben gewählt.|
 
 
 
@@ -52,8 +60,8 @@
 | **schlicht** | simple/ plain   | - Das Design des Stuhls ist sehr schlicht. |
 | **überzeugen** | conviennce   | - Sie überzeugte das Publikum mit ihrer Rede (speech). |
 | **bevorzugen** | prefer   | - Ich bevorzuge es, an meiner Selbstentwicklung zu arbeiten. |
-
-
+| **finden** | find   | - Ich habe meine Schlüssel gefunden. |
+| **befinden** | locate,feel  | - Ich befinde mich in einer schwierigen Lage (situation). |
 
 
 
@@ -64,6 +72,16 @@
 3. **Du hast recht.** - You are right.
 4. **Da gebe ich dir recht** -  agree with you there.
 5. **wie wäre es mit** - how about .. .
+6. **in den Bergen** - 
+
+## Grammatik
+# passive 
+
+Present Tense Passive: Subject + wird + Past Participle: Die Wohnung wird geputzt.
+Past Tense Passive: Subject + wurde + Past Participle : Mein Auto wurde in Berlin angemeldet.
+Future Tense Passive: Subject + wird + Past Participle + werden: Die Medizin wird gesendet werden (will be sent)
+Present Perfect Tense Passive: Subject + ist + Past Participle + worden
+
 
 
 
