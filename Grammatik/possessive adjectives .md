@@ -37,17 +37,17 @@ This table provides the accusative and dative forms of German personal pronouns.
 
 ## Personal Pronouns - Accusative and Dative
 
-| **Person**                   | **Nominative (Subject)** | **Accusative (Direct Object)** | **Dative (Indirect Object)** |
-|------------------------------|--------------------------|--------------------------------|------------------------------|
-| **1st Person Singular**       | ich                      | **mich**                       | **mir**                       |
-| **2nd Person Singular**       | du                       | **dich**                       | **dir**                       |
-| **3rd Person Singular (Masculine)** | er               | **ihn**                        | **ihm**                       |
-| **3rd Person Singular (Feminine)**  | sie              | **sie**                        | **ihr**                       |
-| **3rd Person Singular (Neuter)**    | es               | **es**                         | **ihm**                       |
-| **1st Person Plural**         | wir                      | **uns**                        | **uns**                       |
-| **2nd Person Plural**         | ihr                      | **euch**                       | **euch**                      |
-| **3rd Person Plural**         | sie                      | **sie**                        | **ihnen**                     |
-| **2nd Person Formal**         | Sie                      | **Sie**                        | **Ihnen**                     |
+| **Nominative (Subject)** | **Accusative (Direct Object)** | **Dative (Indirect Object)** |
+|--------------------------|--------------------------------|------------------------------|
+| ich                      | **mich**                       | **mir**                       |
+| du                       | **dich**                       | **dir**                       |
+| er                       | **ihn**                        | **ihm**                       |
+| sie                      | **sie**                        | **ihr**                       |
+| es                       | **es**                         | **ihm**                       |
+| wir                      | **uns**                        | **uns**                       |
+| ihr                      | **euch**                       | **euch**                      |
+| sie                      | **sie**                        | **ihnen**                     |
+| Sie                      | **Sie**                        | **Ihnen**                     |
 
 
 
