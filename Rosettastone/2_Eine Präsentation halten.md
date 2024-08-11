@@ -15,12 +15,21 @@
 | **gestalten** | wirken, design   | - Wir müssen das Layout der Webseite neu gestalten. |
 | **einrichten** | to set up, eröffnen, anlegen   | - Ich habe ein neues Konto bei der Bank eingerichtet. meinen neuen Computer einrichten. |
 | **anlegen** | to set up, eröffnen, einrichten   | - Er musste einen Account anlegen, um die Website zu nutzen. |
-| **anpassen** | modify, angleichen, abstimmen   | - Ich musste meinen Tagesablauf meinem neuen Job anpassen. angepasst. |
+| **anpassen** | modify,adjust, angleichen, abstimmen   | - Ich musste meinen Tagesablauf meinem neuen Job anpassen. angepasst. |
 | **beenden** | finish   | -Wir haben das Projekt erfolgreich beendet. |
 | **die Angestellte** | employee     | - Die Angestellten erhalten jeden Monat ihr Gehalt. |
 | **der Aufbau** | structure, die Anordnung    | - Der Aufbau des Berichts ist klar und übersichtlich (organised). |
 | **veranschaulichen** | illustrate    | - Die Lehrerin hat das Konzept durch ein Diagramm veranschaulicht. |
-| **beruhigen** | calm down   | - Ein warmer Tee kann helfen, die Nerven zu beruhigen. |
+| **beruhigen** | calm down, != verängstigen   | - Ein warmer Tee kann helfen, die Nerven zu beruhigen. |
+| **ausreichend** | adequte   | - Mein Einkommen ist ausreichend für eine vierköpfige Familie. |
+| **stattfinden** | take place   | - Die Konferenz findet nächste Woche statt. |
+| **zum Glück** | luckily   | - ir haben zum Glück einen Parkplatz gefunden. |
+| **überblick** | overview   | - hier ist ein Überblick über die wichtigsten Punkte der Präsentation. |
+| **vorbereite** | prepare   | - Ich bereite mich für nächste Woche vor. |
+| **Das Fazit** | conclusion   | - Das Fazit der Studie ist, dass regelmäßige Bewegung die Gesundheit verbessert. |
+| **erfüllen** | meet, fulfill   | - Er hat seine Versprechen vollständig erfüllt. (kept promise), Aufgaben zu erfüllen.|
+| **Die Bestellung** | order  | - Die Bestellung wird in den nächsten Tagen geliefert.|
+
 
 
 ## Ähnlicher Wortschatz
@@ -35,17 +44,12 @@
 | **verpassen** | miss     | - Ich habe den Zug verpasst, also kam ich zu spät zur Arbeit. |
 
 
-
-
-
-
 ## Sentences
 
 1. **Eine Präsentation halten** 
 2. **effektiver zusammen arbeiten** 
 
-## Grammatik
-# passive 
+
 
 
 
