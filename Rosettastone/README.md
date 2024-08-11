@@ -1,4 +1,4 @@
-### German Language Study Progress
+### Rosettastone Fortschrittsverfolgung
 
 | Course # | Status | Course # | Status | Course # | Status | Course # | Status |
 |----------|--------|----------|--------|----------|--------|----------|--------|
