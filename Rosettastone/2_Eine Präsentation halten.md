@@ -1,6 +1,4 @@
-# Lesson 2 - vokabular and sätze
-
-## vokabular
+# Lektion 2 - vokabular and sätze
 
 | Wort       | Übersetzung | Sätze                                                                 |
 |------------|-------------|------------------------------------------------------------------------|
@@ -44,7 +42,7 @@
 | **verpassen** | miss     | - Ich habe den Zug verpasst, also kam ich zu spät zur Arbeit. |
 
 
-## Sentences
+## Sätze
 
 1. **Eine Präsentation halten** 
 2. **effektiver zusammen arbeiten** 
