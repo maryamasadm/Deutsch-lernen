@@ -27,6 +27,8 @@
 | **verabreden** | make an appointment   | - Wir haben uns für Samstagabend verabredet.|
 | **Frage stellen** | ask a question | - Ich möchte dir eine Frage stellen.|
 | **voraussehen** | predict, Vorhersagen   | - Niemand kann Marktentwicklungen mit Sicherheit voraussehen. das Wetter für die nächsten Tage voraussehen.|
+| **verstanden** | verstehen | - Ich habe das nicht verstanden.|
+| **Frage stellen** | ask a question | - Ich möchte dir eine Frage stellen.|
 
 
 
