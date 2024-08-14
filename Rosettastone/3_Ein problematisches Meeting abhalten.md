@@ -38,7 +38,7 @@
 ## Grammatik
 Passiv
 
-Passiv Präsens:                    werden    +      Partizip II    
+Passiv Präsens:                    | werden    +      Partizip II    |
 Passiv Präteritum :                wurden    +      Partizip II   
 Passiv Perfekt :                     sein    +      Partizip II     +     worden 
 Passiv Plusquamperfekt:             waren    +      Partizip II     +     worden    
