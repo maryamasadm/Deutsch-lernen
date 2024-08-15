@@ -16,6 +16,8 @@
 | **der Fortgang** | progress   | - Der Fortgang des Projekts wird regelmäßig überprüft, um sicherzustellen, dass alles nach Plan läuft. |
 | **spätestens** | at the latest   | - Wir müssen spätestens um zehn Uhr da sein. |
 | **melde mich** | get in touch  | - Danke für das Gespräch. Ich melde mich nächste Woche bei dir. |
+| **versprechen** | promise  | - Ich habe meinem Freund versprochen, sein Geheimnis zu bewahren. |
+
 
 
 
