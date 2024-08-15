@@ -17,9 +17,9 @@
 | **spätestens** | at the latest   | - Wir müssen spätestens um zehn Uhr da sein. |
 | **melde mich** | get in touch  | - Danke für das Gespräch. Ich melde mich nächste Woche bei dir. |
 | **versprechen** | promise  | - Ich habe meinem Freund versprochen, sein Geheimnis zu bewahren. |
-
-
-
+| **rückenschmerz** | backpain  | - Bei meinen Rückschmerzen hat eine Massage Abhilfe geschafft. |
+| **ausdrücklich** | express, explicit  | - Ich hat meinen Sohn ausdrücklich, seine Hausaufgaben zu machen. |
+| **Bearbeitung** | processing   | - Die Bearbeitung Ihrer Bestellung dauert zwei Tage. |
 
 
 ## Ähnlicher Wortschatz
