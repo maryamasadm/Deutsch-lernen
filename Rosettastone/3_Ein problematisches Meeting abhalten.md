@@ -20,6 +20,10 @@
 | **rückenschmerz** | backpain  | - Bei meinen Rückschmerzen hat eine Massage Abhilfe geschafft. |
 | **ausdrücklich** | express, explicit  | - Ich hat meinen Sohn ausdrücklich, seine Hausaufgaben zu machen. |
 | **Bearbeitung** | processing   | - Die Bearbeitung Ihrer Bestellung dauert zwei Tage. |
+| **Behandlung** | treatment   | - . |
+| **belassen** | leave   | - Wir wollen es dabei belassen . |
+
+
 
 
 ## Ähnlicher Wortschatz
